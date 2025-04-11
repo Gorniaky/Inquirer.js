@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "@inquirer/type": "^3.0.6",
-    "ansi-escapes": "^4.3.2",
+    "ansi-escapes": "^7.0.0",
     "mute-stream": "^2.0.0"
   },
   "devDependencies": {
