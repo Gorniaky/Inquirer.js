@@ -503,7 +503,7 @@ __metadata:
     "@inquirer/testing": "npm:^2.1.46"
     "@inquirer/type": "npm:^3.0.6"
     "@repo/tsconfig": "workspace:*"
-    ansi-escapes: "npm:^4.3.2"
+    ansi-escapes: "npm:^7.1.0"
     tshy: "npm:^3.0.2"
     yoctocolors-cjs: "npm:^2.1.2"
   peerDependencies:
@@ -555,7 +555,7 @@ __metadata:
     "@types/mute-stream": "npm:^0.0.4"
     "@types/node": "npm:^22.14.0"
     "@types/wrap-ansi": "npm:^3.0.0"
-    ansi-escapes: "npm:^4.3.2"
+    ansi-escapes: "npm:^7.1.0"
     cli-width: "npm:^4.1.0"
     mute-stream: "npm:^2.0.0"
     signal-exit: "npm:^4.1.0"
@@ -695,7 +695,7 @@ __metadata:
     "@inquirer/testing": "npm:^2.1.46"
     "@inquirer/type": "npm:^3.0.6"
     "@repo/tsconfig": "workspace:*"
-    ansi-escapes: "npm:^4.3.2"
+    ansi-escapes: "npm:^7.1.0"
     tshy: "npm:^3.0.2"
   peerDependencies:
     "@types/node": ">=18"
@@ -808,7 +808,7 @@ __metadata:
     "@inquirer/testing": "npm:^2.1.46"
     "@inquirer/type": "npm:^3.0.6"
     "@repo/tsconfig": "workspace:*"
-    ansi-escapes: "npm:^4.3.2"
+    ansi-escapes: "npm:^7.1.0"
     tshy: "npm:^3.0.2"
     yoctocolors-cjs: "npm:^2.1.2"
   peerDependencies:
@@ -828,7 +828,7 @@ __metadata:
     "@repo/tsconfig": "workspace:*"
     "@types/mute-stream": "npm:^0.0.4"
     "@types/node": "npm:^22.14.0"
-    ansi-escapes: "npm:^4.3.2"
+    ansi-escapes: "npm:^7.1.0"
     mute-stream: "npm:^2.0.0"
     tshy: "npm:^3.0.2"
   peerDependencies:
@@ -2193,7 +2193,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ansi-escapes@npm:^4.2.1, ansi-escapes@npm:^4.3.2":
+"ansi-escapes@npm:^4.2.1":
   version: 4.3.2
   resolution: "ansi-escapes@npm:4.3.2"
   dependencies:
@@ -2208,6 +2208,15 @@ __metadata:
   dependencies:
     environment: "npm:^1.0.0"
   checksum: 10/2d0e2345087bd7ae6bf122b9cc05ee35560d40dcc061146edcdc02bc2d7c7c50143cd12a22e69a0b5c0f62b948b7bc9a4539ee888b80f5bd33cdfd82d01a70ab
+  languageName: node
+  linkType: hard
+
+"ansi-escapes@npm:^7.1.0":
+  version: 7.1.0
+  resolution: "ansi-escapes@npm:7.1.0"
+  dependencies:
+    environment: "npm:^1.0.0"
+  checksum: 10/bf0d36c2b350f4fb5759742f83000fa1bae35b610f05aa528db65f626620b34100a048906308d98ea385e1447997417f3f594456c45c3aa30f52f3f450a30ed3
   languageName: node
   linkType: hard
 
@@ -4609,7 +4618,7 @@ __metadata:
     "@inquirer/type": "npm:^3.0.6"
     "@repo/tsconfig": "workspace:*"
     "@types/mute-stream": "npm:^0.0.4"
-    ansi-escapes: "npm:^4.3.2"
+    ansi-escapes: "npm:^7.1.0"
     mute-stream: "npm:^2.0.0"
     run-async: "npm:^3.0.0"
     rxjs: "npm:^7.8.2"
